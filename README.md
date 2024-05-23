@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+#Output
+<img width="1440" alt="Screenshot 2024-05-23 at 9 06 26 PM" src="https://github.com/roshanwadhai17/react-form-validation/assets/114663888/36d40c12-77bb-4311-858d-f7cba782e604">
+<img width="1440" alt="Screenshot 2024-05-23 at 9 06 05 PM" src="https://github.com/roshanwadhai17/react-form-validation/assets/114663888/56f3dcbe-ad0d-445e-a4c9-2f2dac63431d">
+<img width="1440" alt="Screenshot 2024-05-23 at 9 04 19 PM" src="https://github.com/roshanwadhai17/react-form-validation/assets/114663888/47c50339-4b20-44e3-89a1-12663eaba232">
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
